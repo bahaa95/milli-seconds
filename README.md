@@ -10,7 +10,7 @@ An object with methods to convert time to milliseconds.
 
 ## Installation
 
-Install milli-seconds with npm.
+Install milli-seconds with npm
 
 ```bash
   npm install milli-seconds
