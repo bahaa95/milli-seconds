@@ -1,4 +1,4 @@
-# milli-seconds
+# to-milliseconds
 
 An object with methods to convert time to milliseconds.
 
@@ -10,16 +10,16 @@ An object with methods to convert time to milliseconds.
 
 ## Installation
 
-Install milli-seconds with npm
+Install to-milliseconds with npm
 
 ```bash
-  npm install milli-seconds
+  npm install to-milliseconds
 ```
 
 ## Usage
 
 ```typescript
-import { milliseconds } from 'milli-seconds';
+import { milliseconds } from 'to-milliseconds';
 
 milliseconds.seconds(1);
 milliseconds.minutes(1);

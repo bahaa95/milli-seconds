@@ -1,5 +1,5 @@
 {
-  "name": "milli-seconds",
+  "name": "to-milliseconds",
   "version": "1.0.1",
   "description": "An object with methods to convert time to milliseconds",
   "author": "bahaa adel <probahaa9@gmail.com> (https://bahaa-adel.vercel.app)",
@@ -12,7 +12,7 @@
     "milliseconds",
     "millisecond",
     "time",
-    "milli-seconds"
+    "to-milliseconds"
   ],
   "license": "MIT",
   "repository": {
