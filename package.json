@@ -27,7 +27,7 @@
     "test": "jest --config jestconfig.json",
     "build": "tsc",
     "format": "prettier --write \"src/**/*.ts\"",
-    "lint": "eslint -p tsconfig.json",
+    "lint": "eslint --ext .ts src",
     "prepare": "npm run build",
     "prepublishOnly": "npm run test && npm run lint",
     "preversion": "npm run test && npm run lint",

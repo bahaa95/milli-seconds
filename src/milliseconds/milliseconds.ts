@@ -15,7 +15,6 @@ function isNumber(time: ITime, value: number): void {
   throw new Error(`MilliSeconds, invalid ${time}, ${value} must be a number`);
 }
 
-
 const ms: IMilliSeconds = {
   seconds: (seconds): number => {
     isNumber('seconds', seconds);
